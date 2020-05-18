@@ -1,4 +1,3 @@
-class Aurthor
-
+class Arthor
   attr_accessor :name
 end
